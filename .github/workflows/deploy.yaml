@@ -5,7 +5,7 @@ name: Deploy Frontend to Nginx
 on:
   push: 
     branches:
-      -main
+      - main
 
 # 이벤트 발생 시 동작해야 할 작업 정의
 jobs: 
